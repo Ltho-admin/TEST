@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "nom": "Frédéric Grandjean",
+    "titre": "Professeur des Universités",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "email": "frederic.grandjean@univ-poitiers.fr",
+    "téléphone": "+33 (0)5 49 45 42 76",
+    "url": "https://ltho-admin.github.io/TEST/",
+    "localisation": {
+      "adresse": "Bâtiment B31, 3 Rue Jacques Fortt",
+      "postalCode": "TSA 51106, 86000",
+      "city": "Poitiers",
+      "countryCode": "FR",
+      "region": "Vienne (86)"
     },
     "profiles": [
       {
