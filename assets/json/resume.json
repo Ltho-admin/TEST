@@ -6,13 +6,13 @@
     "email": "frederic.grandjean@univ-poitiers.fr",
     "téléphone": "+33 (0)5 49 45 42 76",
     "url": "https://ltho-admin.github.io/TEST/",
-    "localisation": {
-      "batiment": "B31",
-      "adresse": "3 Rue Jacques Fortt",
-      "TSA": "51106",
-      "code postal": "86000",
+    "location": {
+      "building": "B31",
+      "address": "3 Rue Jacques Fort",
+      "postalCode": "86000",
       "city": "Poitiers",
-      "département": "Vienne (86)"
+      "region": "Vienne (86)",
+      "countryCode": "FR"
     },
     "profiles": [
       {
