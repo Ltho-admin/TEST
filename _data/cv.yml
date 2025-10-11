@@ -1,43 +1,43 @@
-- title: "Informations Générales"
+- title: Informations Générales
   type: map
   contents:
     - name: Titre
-      value: "Professeur des Universités"
+      value: Professeur des Universités
     - name: Laboratoire
-      value: "<a href="https://ebi.labo.univ-poitiers.fr">Ecologie et Biologie des Interactions (EBI) - UMR7267</a>"
+      value: <a href="https://ebi.labo.univ-poitiers.fr">Ecologie et Biologie des Interactions (EBI) - UMR7267</a>
     - name: Fonction
       value: Responsable Equipe - Ecologie Evolution Symbiose (EES)
     - name: Adresse
-      value: "Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106 - 86073 POITIERS Cedex 9 - France"
-    - name: "Téléphone"
+      value: Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106 - 86073 POITIERS Cedex 9 - France
+    - name: Téléphone
       value: +33 (0)5 49 45 42 76
     - name: Email
-      value: "<a href="mailto:frederic.grandjean@univ-poitiers.fr">frederic.grandjean@univ-poitiers.fr</a>"
+      value: <a href="mailto:frederic.grandjean@univ-poitiers.fr">frederic.grandjean@univ-poitiers.fr</a>
 
 - title: Formation
   type: time_table
   contents:
-    - title: "Habilitation à Diriger des Recherches (HDR)"
-      institution: "Université de Poitiers (France)"
+    - title: Habilitation à Diriger des Recherches (HDR)
+      institution: Université de Poitiers (France)
       year: XXXX
       description:
         - XXXXXXXXXXX
     - title: Doctorat (PhD)
-      institution: "Université de Poitiers (France)"
+      institution: Université de Poitiers (France)
       year: 1997
       description:
         - title: "Variabilité morphométrique et génétique chez les populations de l’écrevisse à pattes blanches Austropotamobius pallipes - implications biogéographiques"
           contents:
            - Sous la direction de Catherine Souty-Grosset
 
-- title: "Expérience Académique"
+- title: Expérience Académique
   type: time_table
   contents:
-    - title: "Professeur des Universités"
-      institution: "Laboratoire Ecologie et Biologie des Interactions (EBI) - UMR7267 - Université de Poitiers"
-      year: "XXXX - Aujourd’hui"
-    - title: "Maître de Conférences"
-      institution: "Université de Poitiers"
+    - title: Professeur des Universités
+      institution: Laboratoire Ecologie et Biologie des Interactions (EBI) - UMR7267 - Université de Poitiers
+      year: "XXXX - Aujourd’hui
+    - title: Maître de Conférences
+      institution: Université de Poitiers
       year: "1998? - XXX"
     - title: Chercheur Post-doctorant
       institution: XXXX
@@ -49,35 +49,35 @@
 - title: Contrats de financement
   type: time_table
   contents:
-    - year: "2022-2026"
+    - year: 2022-2026
     - title: Projet InCrust
       description:
-        - title: "Inventaire des poissons et crustacés des eaux douces par métabarcoding en Martinique"
+        - title: Inventaire des poissons et crustacés des eaux douces par métabarcoding en Martinique
           contents:
            - Porteur Principal
            - "Financé par l’OFB/ODE/DEAL à hauteur de 273 000€"
-    - year: "2024-2026"
+    - year: 2024-2026
     - title: Projet Toxeau
       description:
         - title: "Détecter les contaminations en métaux lourds et terres rares dans les tissus des animaux aquatiques et développer une approche applicable à différentes échelles de temps."
           contents:
            - Participation à 15%
            - "Financé par le programme UP-SQUARED (PIA4 / France 2030 ExcellenceS) à hauteur de 15 000 €"
-    - year: "2023-2025"
+    - year: 2023-2025
     - title: "Projet eCray’on"
       description:
         - title: "Utilisation de l’ADN environnemental pour la détection de l’écrevisse à pattes blanches (Austropotamobius pallipes) et de l’agent responsable de la peste (Aphanomyces astaci) en cours d’eau"
           contents:
            - Participation à 30%
            - "Financé par l’OFB/partenaires non académiques à hauteur de 280 000 €"
-    - year: "2021-2024"
+    - year: 2021-2024
     - title: Projet RECODE
       description:
         - title: Rethinking Ecological Corridor Design - a historical and genetically-based approach
           contents:
            - Participation à 10%
            - "Financé par l’ANR à hauteur de 268 000 €"
-    - year: "2020-2023"
+    - year: 2020-2023
     - title: Projet Symchrosex
       description:
         - title: Characterization of a sex chromosome born from a feminizing endosymbiont genome
