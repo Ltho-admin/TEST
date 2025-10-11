@@ -13,6 +13,13 @@
       "countryCode": "FR",
       "region": "Vienne (86)"
     },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "work": [
     {
