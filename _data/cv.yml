@@ -30,75 +30,58 @@
           contents:
            - Sous la direction de Catherine Souty-Grosset
 
-- title: Experience
+- title: Expérience Académique
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Professeur des Universités
+      institution: Laboratoire Ecologie et Biologie des Interactions (EBI) - UMR7267 - Université de Poitiers
+      year: XXXX - Aujourd’hui
+    - title: Maître de Conférences
+      institution: Université de Poitiers
+      year: 1998? - XXX
+    - title: Chercheur Post-doctorant
+      institution: XXXX
+      year: XXXX-XXXX
+    - title: Thèse de Doctorat
+      institution: Université de Poitiers
+      year: 1994 - 1997
 
 - title: Contrats de financement
   type: time_table
   contents:
     - year: 2022-2026
+    - title: Projet InCrust
       description:
-        - title: Projet InCrust - Inventaire des poissons et crustacés des eaux douces par métabarcoding en Martinique
+        - title: Inventaire des poissons et crustacés des eaux douces par métabarcoding en Martinique
           contents:
            - Porteur Principal
            - Financé par l’OFB/ODE/DEAL à hauteur de 273 000€
     - year: 2024-2026
+    - title: Projet Toxeau
       description:
-        - title: Projet Toxeau - Détecter les contaminations en métaux lourds et terres rares dans les tissus des animaux aquatiques et développer une approche applicable à différentes échelles de temps.
+        - title: Détecter les contaminations en métaux lourds et terres rares dans les tissus des animaux aquatiques et développer une approche applicable à différentes échelles de temps.
           contents:
            - Participation à 15%
            - Financé par le programme UP-SQUARED (PIA4 / France 2030 ExcellenceS) à hauteur de 15 000 €
     - year: 2023-2025
+    - tilte: Projet eCray’on
       description:
-        - title: Projet eCray’on – Utilisation de l’ADN environnemental pour la détection de l’écrevisse à pattes blanches (Austropotamobius pallipes) et de l’agent responsable de la peste (Aphanomyces astaci) en cours d’eau
+        - title: Utilisation de l’ADN environnemental pour la détection de l’écrevisse à pattes blanches (Austropotamobius pallipes) et de l’agent responsable de la peste (Aphanomyces astaci) en cours d’eau
           contents:
            - Participation à 30%
            - Financé par l’OFB/partenaires non académiques à hauteur de 280 000 €
     - year: 2021-2024
+    - title: Projet RECODE
       description:
-        - title: Projet RECODE – Rethinking Ecological Corridor Design - a historical and genetically-based approach
+        - title: Rethinking Ecological Corridor Design - a historical and genetically-based approach
+        contents:
            - Participation à 10%
            - Financé par l’ANR à hauteur de 268 000 €
     - year: 2020-2023
+    - title: Projet Symchrosex
       description:
-        - title: Projet Symchrosex – Characterization of a sex chromosome born from a feminizing endosymbiont genome
+        - title: Characterization of a sex chromosome born from a feminizing endosymbiont genome
+        contents:
            - Participation à 10%
            - Financé par l’ANR à hauteur de 295 000 €
            
@@ -113,8 +96,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
