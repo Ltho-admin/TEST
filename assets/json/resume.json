@@ -1,10 +1,10 @@
 {
   "basics": {
-    "nom": "Frédéric Grandjean",
-    "titre": "Professeur des Universités",
+    "name": "Frédéric Grandjean",
+    "label": "Professeur des Universités",
     "image": "",
     "email": "frederic.grandjean@univ-poitiers.fr",
-    "téléphone": "+33 (0)5 49 45 42 76",
+    "phone": "+33 (0)5 49 45 42 76",
     "url": "https://ltho-admin.github.io/TEST/",
     "location": {
       "address": "Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106",
