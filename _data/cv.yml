@@ -12,21 +12,21 @@
     - name: Téléphone
       value: +33 (0)5 49 45 42 76
     - name: Email
-      value: <a href="frederic.grandjean@univ-poitiers.fr">frederic.grandjean@univ-poitiers.fr</a>f
+      value: <a href="mailto:frederic.grandjean@univ-poitiers.fr">frederic.grandjean@univ-poitiers.fr</a>
 
 - title: Formation
   type: time_table
   contents:
     - title: Habilitation à Diriger des Recherches (HDR)
       institution: Université de Poitiers (France)
-      year: 1997
+      year: XXXX
       description:
         - XXXXXXXXXXX
     - title: Doctorat (PhD)
       institution: Université de Poitiers (France)
       year: 1997
       description:
-        - title: Variabilité morphométrique et génétique chez les populations de l écrevisse à pattes blanches Austropotamobius pallipes - implications biogéographiques
+        - title: Variabilité morphométrique et génétique chez les populations de l’écrevisse à pattes blanches Austropotamobius pallipes - implications biogéographiques
           contents:
            - Sous la direction de Catherine Souty-Grosset
 
@@ -70,17 +70,38 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Contrats de financement
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
+    - year: 2022-2026
+      description:
+        - title: Projet InCrust - Inventaire des poissons et crustacés des eaux douces par métabarcoding en Martinique
+          contents:
+           - Porteur Principal
+           - Financé par l’OFB/ODE/DEAL à hauteur de 273 000€
+    - year: 2024-2026
+      description:
+        - title: Projet Toxeau - Détecter les contaminations en métaux lourds et terres rares dans les tissus des animaux aquatiques et développer une approche applicable à différentes échelles de temps.
+          contents:
+           - Participation à 15%
+           - Financé par le programme UP-SQUARED (PIA4 / France 2030 ExcellenceS) à hauteur de 15 000 €
+    - year: 2023-2025
+      description:
+        - title: Projet eCray’on – Utilisation de l’ADN environnemental pour la détection de l’écrevisse à pattes blanches (Austropotamobius pallipes) et de l’agent responsable de la peste (Aphanomyces astaci) en cours d’eau
+          contents:
+           - Participation à 30%
+           - Financé par l’OFB/partenaires non académiques à hauteur de 280 000 €
+    - year: 2021-2024
+      description:
+        - title: Projet RECODE – Rethinking Ecological Corridor Design - a historical and genetically-based approach
+           - Participation à 10%
+           - Financé par l’ANR à hauteur de 268 000 €
+    - year: 2020-2023
+      description:
+        - title: Projet Symchrosex – Characterization of a sex chromosome born from a feminizing endosymbiont genome
+           - Participation à 10%
+           - Financé par l’ANR à hauteur de 295 000 €
+           
 - title: Academic Interests
   type: nested_list
   contents:
