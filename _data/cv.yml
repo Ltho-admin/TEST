@@ -35,15 +35,15 @@
   contents:
     - title: Professeur des Universités
       institution: Laboratoire Ecologie et Biologie des Interactions (EBI) - UMR7267 - Université de Poitiers
-      year: "XXXX - Aujourd’hui
+      year: "XXXX - Aujourd’hui"
     - title: Maître de Conférences
       institution: Université de Poitiers
       year: "1998? - XXX"
     - title: Chercheur Post-doctorant
       institution: XXXX
       year: "XXXX-XXXX"
-    - title: "Thèse de Doctorat"
-      institution: "Université de Poitiers"
+    - title: Thèse de Doctorat
+      institution: Université de Poitiers
       year: "1994 - 1997"
 
 - title: Contrats de financement
