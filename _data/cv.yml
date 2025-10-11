@@ -1,19 +1,23 @@
-- title: General Information
+- title: Informations Générales
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Frédéric Grandjean
+    - name: Fonction
+      value: Professeur des Universités
+    - name: Adresse
+      value: Bâtiment B31, 3 Rue Jacques Fort, TSA 51106 - 86073 POITIERS Cedex 9 - France
+    - name: Téléphone
+      value: +33 (0)5 49 45 42 76
+    - name: Email
+      value: frederic.grandjean@univ-poitiers.fr
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctorat
+      institution: , Université de Poitiers (France)
+      year: 1997
       description:
         - Description 1.
         - Description 2.
