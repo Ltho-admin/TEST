@@ -7,19 +7,12 @@
     "téléphone": "+33 (0)5 49 45 42 76",
     "url": "https://ltho-admin.github.io/TEST/",
     "location": {
-      "address": "Bâtiment B31, 3 Rue Jacques Fort, TSA 51106",
+      "address": "Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106",
       "postalCode": "86073",
-      "city": "Poitiers, CEDEX 9",
+      "city": "Poitiers - CEDEX 9",
       "countryCode": "FR",
       "region": "Vienne (86)"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
