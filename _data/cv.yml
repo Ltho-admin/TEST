@@ -4,7 +4,7 @@
     - name: Titre
       value: Professeur des Universités
     - name: Laboratoire
-      value: Ecologie et Biologie des Interactions (EBI) - UMR7267
+      value: <a href="https://ebi.labo.univ-poitiers.fr">Ecologie et Biologie des Interactions (EBI) - UMR7267</a>
     - name: Fonction
       value: Responsable Equipe - Ecologie Evolution Symbiose (EES)
     - name: Adresse
@@ -12,22 +12,23 @@
     - name: Téléphone
       value: +33 (0)5 49 45 42 76
     - name: Email
-      value: frederic.grandjean@univ-poitiers.fr
+      value: <a href="frederic.grandjean@univ-poitiers.fr">frederic.grandjean@univ-poitiers.fr</a>f
 
 - title: Formation
   type: time_table
   contents:
-    - title: Doctorat (PhD)
-      institution: Université de Poitiers (France)
-      year: 1997
-      description:
-        - Variabilité morphométrique et génétique chez les populations de l écrevisse à pattes blanches Austropotamobius pallipes - implications biogéographiques
-        - Sous la direction de Catherine Souty-Grosset
     - title: Habilitation à Diriger des Recherches (HDR)
       institution: Université de Poitiers (France)
       year: 1997
       description:
         - XXXXXXXXXXX
+    - title: Doctorat (PhD)
+      institution: Université de Poitiers (France)
+      year: 1997
+      description:
+        - title: Variabilité morphométrique et génétique chez les populations de l écrevisse à pattes blanches Austropotamobius pallipes - implications biogéographiques
+          contents:
+           - Sous la direction de Catherine Souty-Grosset
 
 - title: Experience
   type: time_table
