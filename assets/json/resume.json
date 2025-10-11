@@ -7,11 +7,11 @@
     "téléphone": "+33 (0)5 49 45 42 76",
     "url": "https://ltho-admin.github.io/TEST/",
     "location": {
-      "address": "Bâtiment B31, 3 Rue Jacques Fort, TSA 51106",
-      "postalCode": "86000",
-      "city": "Poitiers",
-      "region": "Vienne (86)",
-      "countryCode": "FR"
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "San Francisco",
+        "countryCode": "US",
+        "region": "California"
     },
     "profiles": [
       {
