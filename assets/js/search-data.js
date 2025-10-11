@@ -504,6 +504,13 @@ ninja.data = [{
           window.open("mailto:%66%72%65%64%65%72%69%63.%67%72%61%6E%64%6A%65%61%6E@%75%6E%69%76-%70%6F%69%74%69%65%72%73.%66%72", "_blank");
         },
       },{
+        id: 'social-hal',
+        title: 'HAL',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://cv.hal.science/frederic-grandjean", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
