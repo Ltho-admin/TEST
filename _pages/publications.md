@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Liste des publications scientifiques affichéesen ordre chronologique inversé.
+description: Liste des publications scientifiques affichées en ordre chronologique inversé.
 nav: true
 nav_order: 2
 ---
