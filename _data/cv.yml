@@ -6,7 +6,7 @@
     - name: Fonction
       value: Professeur des Universités
     - name: Adresse
-      value: Bâtiment B31, 3 Rue Jacques Fort, TSA 51106 - 86073 POITIERS Cedex 9 - France
+      value: Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106 - 86073 POITIERS Cedex 9 - France
     - name: Téléphone
       value: +33 (0)5 49 45 42 76
     - name: Email
@@ -16,7 +16,7 @@
   type: time_table
   contents:
     - title: Doctorat
-      institution: , Université de Poitiers (France)
+      institution: Université de Poitiers (France)
       year: 1997
       description:
         - Description 1.
