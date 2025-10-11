@@ -1,10 +1,12 @@
 - title: Informations Générales
   type: map
   contents:
-    - name: Full Name
-      value: Frédéric Grandjean
-    - name: Fonction
+    - name: Titre
       value: Professeur des Universités
+    - name: Laboratoire
+      value: Ecologie et Biologie des Interactions (EBI) - UMR7267
+    - name: Fonction
+      value: Responsable Equipe : Ecologie Evolution Symbiose (EES)
     - name: Adresse
       value: Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106 - 86073 POITIERS Cedex 9 - France
     - name: Téléphone
@@ -12,25 +14,21 @@
     - name: Email
       value: frederic.grandjean@univ-poitiers.fr
 
-- title: Education
+- title: Formation
   type: time_table
   contents:
-    - title: Doctorat
+    - title: Doctorat (PhD)
       institution: Université de Poitiers (France)
       year: 1997
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title : Variabilité morphométrique et génétique chez les populations de l'écrevisse à pattes blanches Austropotamobius pallipes - implications biogéographiques
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Sous la direction de Catherine Souty-Grosset
+    - title: Habilitation à Diriger des Recherches (HDR)
+      institution: Université de Poitiers (France)
+      year: 1997
       description:
-        - Description 1.
-        - Description 2.
+        - title : XXXXXXXXXXX
 
 - title: Experience
   type: time_table
