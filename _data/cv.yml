@@ -19,24 +19,6 @@
       value: >-
         <a
         href="mailto:frederic.grandjean@univ-poitiers.fr">frederic.grandjean@univ-poitiers.fr</a>
-- title: Formation
-  type: time_table
-  contents:
-    - title: Habilitation à Diriger des Recherches (HDR)
-      institution: Université de Poitiers (France)
-      year: XXXX
-      description:
-        - XXXXXXXXXXX
-    - title: Doctorat (PhD)
-      institution: Université de Poitiers (France)
-      year: 1997
-      description:
-        - title: >-
-            Variabilité morphométrique et génétique chez les populations de
-            l’écrevisse à pattes blanches Austropotamobius pallipes -
-            implications biogéographiques
-          contents:
-            - Sous la direction de Catherine Souty-Grosset
 - title: Expérience Académique
   type: time_table
   contents:
@@ -54,6 +36,23 @@
     - title: Thèse de Doctorat
       institution: Université de Poitiers
       year: 1994 - 1997
+- title: Responsabilités
+  type: time_table
+  contents:
+    - title: 'Responsable de l’équipe Ecologie, Evolution, Symbiose (EES)'
+      year: Depuis 2022
+    - title: Membre du Comité de Direction de l’UMR 7267
+      year: Depuis 2022
+    - title: Membre de la Commission d’évaluation scientifique (section 64 à 69)
+      year: Depuis 2022
+    - title: >-
+        Membre du comité de pilotage de la Chaire Biodiversité de l’Université
+        de Poitiers
+      year: Depuis 2021
+    - title: Membre titulaire du CNU 67ème section
+      year: Depuis 2020
+    - title: Président du conseil scientifique de la réserve Naturelle du Pinail
+      year: Depuis 2004
 - title: Contrats de financement
   type: time_table
   contents:
@@ -108,3 +107,21 @@
           contents:
             - Participation à 10%
             - Financé par l’ANR à hauteur de 295 000 €
+- title: Formation
+  type: time_table
+  contents:
+    - title: Habilitation à Diriger des Recherches (HDR)
+      institution: Université de Poitiers (France)
+      year: XXXX
+      description:
+        - XXXXXXXXXXX
+    - title: Doctorat (PhD)
+      institution: Université de Poitiers (France)
+      year: 1997
+      description:
+        - title: >-
+            Variabilité morphométrique et génétique chez les populations de
+            l’écrevisse à pattes blanches Austropotamobius pallipes -
+            implications biogéographiques
+          contents:
+            - Sous la direction de Catherine Souty-Grosset
