@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aphanomyces astaci
-description: Thématique de recherche concernant l'agent pathogène responsable de la peste de l'écrevisse : Aphanomyces astaci
+description: Aphanomyces astaci
 img: assets/img/peste_1.jpg
 importance: 1
 category: work
