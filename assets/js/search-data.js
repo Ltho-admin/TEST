@@ -423,9 +423,9 @@ ninja.data = [{
             },},{id: "news-premier-test-de-mise-en-ligne-du-site-sparkles-nerd-face",
           title: 'Premier test de mise en ligne du site ! :sparkles::nerd_face:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/TEST/projects/1_project/";
             },},{id: "projects-project-2",
