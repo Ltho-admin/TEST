@@ -58,12 +58,10 @@ Bref, c'est assez facile à paramétrer !
 
 A garder pour moi :
 
-
 Il suffit d’encapsuler vos images dans une balise `<div class="col-sm">` et de les placer à l’intérieur d’une balise `<div class="row">` (voir plus d’informations sur le <a href="https://getbootstrap.com/docs/4.4/layout/grid/">système de grille de Bootstrap</a>).
 Pour rendre les images adaptatives, ajoutez la classe `img-fluid` à chacune d’elles ;
 pour obtenir des bords arrondis et des ombres, utilisez les classes `rounded` et `z-depth-1`.
 Voici le code correspondant à la dernière rangée d’images ci-dessus :
-
 
 {% raw %}
 
