@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Recherche
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Liste des différentes thématiques de recherche abordées.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
