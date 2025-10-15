@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Enseignements
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Pour le moment, cette page reste une description statique. Elle peut être convertie sous uneforme similaire à la page `_projects/` avec de dédier une page à chaque cours/UE.
 
-Organize your courses by years, topics, or universities, however you like!
+Possibilité d'organiser les cours par années (M1/M2/etc.), par thématiques, par... Tout ce que l'on veut !
