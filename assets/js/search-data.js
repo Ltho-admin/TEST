@@ -423,9 +423,9 @@ ninja.data = [{
             },},{id: "news-premier-test-de-mise-en-ligne-du-site-sparkles-nerd-face",
           title: 'Premier test de mise en ligne du site ! :sparkles::nerd_face:',
           description: "",
-          section: "News",},{id: "projects-aphanomyces-astaci",
-          title: 'Aphanomyces astaci',
-          description: "Aphanomyces astaci",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/TEST/projects/1_project/";
             },},{id: "projects-project-2",
