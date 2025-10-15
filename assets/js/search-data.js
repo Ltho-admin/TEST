@@ -412,6 +412,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/TEST/books/the_godfather/";
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/TEST/news/announcement_2/";
             },},{id: "news-premier-test-de-mise-en-ligne-du-site-sparkles-nerd-face",
           title: 'Premier test de mise en ligne du site ! :sparkles::nerd_face:',
           description: "",
