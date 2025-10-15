@@ -13,7 +13,6 @@ Texte à ajouter pour l'exemple concernant la peste de l'écrevisse
 Texte à ajouter pour l'exemple concernant la peste de l'écrevisse
 Texte à ajouter pour l'exemple concernant la peste de l'écrevisse
 
-
 Texte à ajouter pour l'exemple concernant la peste de l'écrevisse
 Texte à ajouter pour l'exemple concernant la peste de l'écrevisse
 
