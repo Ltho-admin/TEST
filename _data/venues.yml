@@ -16,7 +16,7 @@
   url: https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution
   color: "#56CCCC"
 
-"Chemosphre":
+"Chemosphere":
   url: https://www.sciencedirect.com/journal/chemosphere
   color: "#99771A"
 
@@ -80,7 +80,7 @@
   url: https://www.sciencedirect.com/journal/science-of-the-total-environment
   color: "#29BA3C"
 
-"ARPHA Preprints"
+"ARPHA Preprints":
   url: https://preprints.arphahub.com/
   color: "#00003E"
 
