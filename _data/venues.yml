@@ -111,7 +111,7 @@
 "Anim. Conserv.":
   url: https://zslpublications.onlinelibrary.wiley.com/journal/14691795
   color: "#6E6D6D"
-  
+
 "Ecol. Evol.":
   url: https://onlinelibrary.wiley.com/journal/20457758
   color: "#53BDB7"
@@ -154,7 +154,7 @@
 
 "Microbiol. Resour. Announc.":
   url: https://journals.asm.org/journal/mra
-  color : "#151D24"
+  color: "#151D24"
 
 "BMC Biol.":
   url: https://bmcbiol.biomedcentral.com/
