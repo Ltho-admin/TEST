@@ -8,175 +8,175 @@
 "Vision":
   color: "#009f36"
 
-"Hered."
+"Hered.":
   url: https://www.nature.com/hdy/
   color: "#7B4BA6"
 
-"Mol. Phylogenetics Evol."
+"Mol. Phylogenetics Evol.":
   url: https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution
   color: "#56CCCC"
 
-"Oikos"
+"Oikos":
   url: https://nsojournals.onlinelibrary.wiley.com/journal/16000706
   color: "#3F70A6"
 
-"JCB"
+"JCB":
   url: https://academic.oup.com/jcb
   color: "#DBE9FF"
 
-"Freshw. Biol."
+"Freshw. Biol.":
   url: https://onlinelibrary.wiley.com/journal/13652427
   color: "#002C73"
 
-"Virology"
+"Virology":
   url: https://www.sciencedirect.com/journal/virology
   color: "#00B2C2"
 
-"Freshw. Sci."
+"Freshw. Sci.":
   url: https://www.journals.uchicago.edu/toc/fws/current
   color: "#0E5D8A"
 
-"J. Limnol."
+"J. Limnol.":
   url: https://www.jlimnol.it/jlimnol
   color: "#13549E"
 
-"PeerJ"
+"PeerJ":
   url: https://peerj.com/life-environment/
   color: "#2DB1EB"
 
-"PLOS One"
+"PLOS One":
   url: https://journals.plos.org/plosone/
   color: "#C2CC4B"
 
-"KMAE"
+"KMAE":
   url: https://www.kmae-journal.org/
   color: "#71D5F0"
 
-"Vet. Microbiol."
+"Vet. Microbiol.":
   url: https://www.sciencedirect.com/journal/veterinary-microbiology
   color: "#7EAB8D"
 
-"DAO"
+"DAO":
   url: https://www.int-res.com/journals/dao
   color: "#AD5721"
 
-"Crustaceana"
+"Crustaceana":
   url: https://brill.com/view/journals/cr/cr-overview.xml
   color: "#C49C87"
 
-"Sci. Total Environ."
+"Sci. Total Environ.":
   url: https://www.sciencedirect.com/journal/science-of-the-total-environment
   color: "#29BA3C"
 
-"Gene"
+"Gene":
   url: https://www.sciencedirect.com/journal/gene
   color: "#525252"
 
-"Conserv. Genet."
+"Conserv. Genet.":
   url: https://link.springer.com/journal/10592
   color: "#075C00"
 
-"Aquat. Conserv.: Mar. Freshw. Ecosyst."
+"Aquat. Conserv.: Mar. Freshw. Ecosyst.":
   url: https://onlinelibrary.wiley.com/journal/10990755
   color: "#213682"
 
-"J. Invertebr. Pathol."
+"J. Invertebr. Pathol.":
   url: https://www.sciencedirect.com/journal/journal-of-invertebrate-pathology
   color: "#1CA1D4"
 
-"Anim. Conserv."
+"Anim. Conserv.":
   url: https://zslpublications.onlinelibrary.wiley.com/journal/14691795
   color: "#6E6D6D"
 
-"Freshw. Sci."
+"Freshw. Sci.":
   url: https://www.journals.uchicago.edu/toc/fws/current
   color: "#1B5C82"
 
-"Zool. Scr."
+"Zool. Scr.":
   url: https://onlinelibrary.wiley.com/journal/14636409
   color: "#FCFAD9"
 
-"Biol. Invasions"
+"Biol. Invasions":
   url: https://link.springer.com/journal/10530
   color: "#0F5299"
 
-"BMC Biol."
+"BMC Biol.":
   url: https://bmcbiol.biomedcentral.com/
   color: "#EB6D2F"
 
-"BMC Genomics"
+"BMC Genomics":
   url: https://bmcgenomics.biomedcentral.com/
   color: "#5FC9BE"
 
-"Ecol. Indic."
+"Ecol. Indic.":
   url: https://www.sciencedirect.com/journal/ecological-indicators
   color: "#35B874"
 
-"Aquat. Sci."
+"Aquat. Sci.":
   url: https://link.springer.com/journal/27
   color: "#00756D"
 
-"Sci. Rep."
+"Sci. Rep.":
   url: https://www.nature.com/srep/
   color: "#272B3D"
 
-"Fungal Biol. Rev."
+"Fungal Biol. Rev.":
   url: https://www.sciencedirect.com/journal/fungal-biology-reviews
   color: "#9755A6"
 
-"Genome"
+"Genome":
   url: https://cdnsciencepub.com/journal/gen
   color: "#960000"
 
-"Mol. Ecol."
+"Mol. Ecol.":
   url: https://onlinelibrary.wiley.com/journal/1365294x
   color: "#002C75"
 
-"Mol. Ecol. Resour."
+"Mol. Ecol. Resour.":
   url: https://onlinelibrary.wiley.com/journal/17550998
   color: "#11347D"
 
-"Front. genet."
+"Front. genet.":
   url: https://www.frontiersin.org/journals/genetics
   color: "#7B34ED"
 
-"Hydrobiologia"
+"Hydrobiologia":
   url: https://link.springer.com/journal/10750
   color: "#A11600"
 
-"Preprints"
+"Preprints":
   url: https://www.preprints.org/
   color: "#FFCD00"
 
-"Genetica"
+"Genetica":
   url: https://link.springer.com/journal/10709
   color: "#037371"
 
-"ZooKeys"
+"ZooKeys":
   url: https://zookeys.pensoft.net/
   color: "#0F1B4A"
 
-"Zootaxa"
+"Zootaxa":
   url: https://www.mapress.com/zt/index
   color: "#5B96B0"
 
-"J. Evol. Biol."
+"J. Evol. Biol.":
   url: https://academic.oup.com/jeb
   color: "#B2C28C"
 
-"Reg. Environ. Change"
+"Reg. Environ. Change":
   url: https://link.springer.com/journal/10113
   color: "#7D4E00"
 
-"Environ. DNA"
+"Environ. DNA":
   url: https://onlinelibrary.wiley.com/journal/26374943
   color: "#4B8CCC"
 
-"Aquat. Invasions"
+"Aquat. Invasions":
   url: https://aquaticinvasions.arphahub.com/
   color: "#076F73"
 
-"Conserv. Genet. Resour."
+"Conserv. Genet. Resour.":
   url: https://link.springer.com/journal/12686
   color: "#2124AD"
 
