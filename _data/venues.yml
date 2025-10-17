@@ -16,6 +16,18 @@
   url: https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution
   color: "#56CCCC"
 
+"Chemosphre":
+  url: https://www.sciencedirect.com/journal/chemosphere
+  color: "#99771A"
+
+"Orient. Insects":
+  url: https://www.tandfonline.com/journals/toin20
+  color: "#3C6185"
+
+"Fishes":
+  url: https://www.mdpi.com/journal/fishes
+  color: "#3A9BB0"
+
 "Oikos":
   url: https://nsojournals.onlinelibrary.wiley.com/journal/16000706
   color: "#3F70A6"
@@ -68,6 +80,10 @@
   url: https://www.sciencedirect.com/journal/science-of-the-total-environment
   color: "#29BA3C"
 
+"ARPHA Preprints"
+  url: https://preprints.arphahub.com/
+  color: "#00003E"
+
 "Gene":
   url: https://www.sciencedirect.com/journal/gene
   color: "#525252"
@@ -84,17 +100,61 @@
   url: https://www.sciencedirect.com/journal/journal-of-invertebrate-pathology
   color: "#1CA1D4"
 
+"Acta Oecol.":
+  url: https://www.sciencedirect.com/journal/acta-oecologica
+  color: "#1F418C"
+
+"Genet. Mol. Biol.":
+  url: https://www.scielo.br/j/gmb/
+  color: "#878787"
+
 "Anim. Conserv.":
   url: https://zslpublications.onlinelibrary.wiley.com/journal/14691795
   color: "#6E6D6D"
+  
+"Ecol. Evol.":
+  url: https://onlinelibrary.wiley.com/journal/20457758
+  color: "#53BDB7"
+
+"J. Environ. Manag.":
+  url: https://www.sciencedirect.com/journal/journal-of-environmental-management
+  color: "#E6B600"
 
 "Zool. Scr.":
   url: https://onlinelibrary.wiley.com/journal/14636409
   color: "#FCFAD9"
 
+"bioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#FFFFFF"
+
+"J. Fish Biol.":
+  url: https://onlinelibrary.wiley.com/journal/10958649
+  color: "#237DCF"
+
+"Bioinvasions Rec.":
+  url: https://www.reabic.net/journals/bir/Default.aspx
+  color: "#B3C6E3"
+
 "Biol. Invasions":
   url: https://link.springer.com/journal/10530
   color: "#0F5299"
+
+"Data Brief":
+  url: https://www.sciencedirect.com/journal/data-in-brief
+  color: "#D92B2B"
+
+"Biol. Lett.":
+  url: https://royalsocietypublishing.org/journal/rsbl
+  color: "#4EA84C"
+
+"Glob. Ecol. Conserv.":
+  url: https://www.sciencedirect.com/journal/global-ecology-and-conservation
+  color: "#67802F"
+
+"Microbiol. Resour. Announc.":
+  url: https://journals.asm.org/journal/mra
+  color : "#151D24"
 
 "BMC Biol.":
   url: https://bmcbiol.biomedcentral.com/
@@ -159,6 +219,14 @@
 "J. Evol. Biol.":
   url: https://academic.oup.com/jeb
   color: "#B2C28C"
+
+"Mitochondrial DNA A":
+  url: https://www.tandfonline.com/journals/imdn21
+  color: "#001A8C"
+
+"Fundam. Appl. Limnol.":
+  url: https://www.schweizerbart.de/journals/fal
+  color: "#7DC5FF"
 
 "Reg. Environ. Change":
   url: https://link.springer.com/journal/10113
