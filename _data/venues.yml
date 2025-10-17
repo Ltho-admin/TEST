@@ -12,7 +12,7 @@
   url: https://www.nature.com/hdy/
   color: "#7B4BA6"
 
-"Mol. Phylogenetics Evol.":
+"Mol. Phyl. Evol.":
   url: https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution
   color: "#56CCCC"
 
@@ -92,7 +92,7 @@
   url: https://link.springer.com/journal/10592
   color: "#075C00"
 
-"Aquat. Conserv.: Mar. Freshw. Ecosyst.":
+"ACMFE":
   url: https://onlinelibrary.wiley.com/journal/10990755
   color: "#213682"
 
@@ -240,6 +240,6 @@
   url: https://aquaticinvasions.arphahub.com/
   color: "#076F73"
 
-"Conserv. Genet. Resour.":
+"Conserv. Genet. Res.":
   url: https://link.springer.com/journal/12686
   color: "#2124AD"
