@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ltho-admin.github.io/TEST/sitemap.xml
+Sitemap: https://FGrandjean.github.io/sitemap.xml
